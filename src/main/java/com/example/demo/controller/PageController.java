@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class PageController {
 
-    @RequestMapping("/")
+ /*   @RequestMapping("/")
     public String home() {
         return "Hello";
-    }
+    }*/
 }
